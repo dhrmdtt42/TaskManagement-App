@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998998048577",
+    "firebase_url": "https://techpro-3d201.firebaseio.com",
+    "project_id": "techpro-3d201",
+    "storage_bucket": "techpro-3d201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998998048577:android:1f4e8e82a3aeac55742bc0",
+        "android_client_info": {
+          "package_name": "com.techpro_app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998998048577-2lkub1pumhk96a98tdie00jtst9cl2pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpro_app.app",
+            "certificate_hash": "872946b288a219ca56edc448ff4dd9135a603ea2"
+          }
+        },
+        {
+          "client_id": "998998048577-sgbpblgfkriph1qedltgpefto0omka1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHyD56-CNUWob5QJIaOhI5WMrCO9kHno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998998048577-sgbpblgfkriph1qedltgpefto0omka1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
